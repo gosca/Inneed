@@ -1,0 +1,9 @@
+.mvn/
+.gradle/
+
+*~
+.settings/
+.project
+.classpath
+
+README.html
